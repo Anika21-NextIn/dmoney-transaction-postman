@@ -20,11 +20,11 @@ https://documenter.getpostman.com/view/21535164/2s9YeG5qzX
 ## Dmoney_Bug Report
 
 ## Prerequisites
-``` 1. Node.js ```
-``` 2. Post man ```
-``` 3. Vs code ```
-``` 4. Newman ```
-``` 5. git ```
+``` 1. Node.js ``` <br>
+``` 2. Post man ``` <br>
+``` 3. Vs code ``` <br>
+``` 4. Newman ``` <br>
+``` 5. git ``` <br>
 
 ![image](https://github.com/Anika21-NextIn/dmoney_transaction_postman/assets/55154873/6745e370-e2e4-4aee-b14d-7fcdf06df918)
 ![image](https://github.com/Anika21-NextIn/dmoney_transaction_postman/assets/55154873/5bc99acc-cfdf-4954-8c76-a8642f61751d)
