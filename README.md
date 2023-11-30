@@ -1,7 +1,7 @@
 # Dmoney API Testing Using Postman And Newman
 
 ## Test Scenarios:
-1. Admin creates an agent and random 2 customers. Admin email: admin@roadtocareer.net/ Pass: 1234
+1. Admin creates an agent and random 2 customers. 
 2. Deposit some money from SYSTEM account to the agent. System account: SYSTEM (range 10 tk to 10000 tk)
 3. Agent deposit to any of 1 customer
 4. Check agent balance
@@ -10,7 +10,14 @@
 7. Then send money to the other customer
 8. Then from the another customer payment to this merchant: 01686606905
 9. Then the second customer will check both balance and statement
-10. Then the merchant will check his own balance 
+10. Then the merchant will check his own balance
+
+## Prerequisites
+``` 1. Node.js ``` <br>
+``` 2. Post man ``` <br>
+``` 3. Vs code ``` <br>
+``` 4. Newman ``` <br>
+``` 5. git ``` <br>
 
 ## API Documentation
 https://documenter.getpostman.com/view/21535164/2s9YeG5qzX 
@@ -21,12 +28,6 @@ https://docs.google.com/spreadsheets/d/1nV6O5qd-GZOQZrSBl6qbXyoezmoiSsU5/edit?us
 ## Dmoney_Bug Report
 https://docs.google.com/spreadsheets/d/166DsTzdD3jto-8fNHoRrxybjI0qXI1Lb/edit?usp=sharing&ouid=110318663577610864826&rtpof=true&sd=true
 
-## Prerequisites
-``` 1. Node.js ``` <br>
-``` 2. Post man ``` <br>
-``` 3. Vs code ``` <br>
-``` 4. Newman ``` <br>
-``` 5. git ``` <br>
 ## Newman report on API testing:
 ![image](https://github.com/Anika21-NextIn/dmoney_transaction_postman/assets/55154873/6745e370-e2e4-4aee-b14d-7fcdf06df918)
 ![image](https://github.com/Anika21-NextIn/dmoney_transaction_postman/assets/55154873/5bc99acc-cfdf-4954-8c76-a8642f61751d)
