@@ -1,5 +1,6 @@
 # Dmoney API Testing Using Postman And Newman
-
+## Project summary:
+This porject shows the automation between DMoney user and Transection API using postman. And generate report using newman to show the test result at a glance. I have added the API collection run documentation, Test Cases documentation both positive and negative test case and a Bug report for this project.
 ## Test Scenarios:
 1. Admin creates an agent and random 2 customers. 
 2. Deposit some money from SYSTEM account to the agent. System account: SYSTEM (range 10 tk to 10000 tk)
