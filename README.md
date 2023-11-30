@@ -16,8 +16,10 @@
 https://documenter.getpostman.com/view/21535164/2s9YeG5qzX 
 
 ## Dmoney_Test Case 
+https://docs.google.com/spreadsheets/d/1nV6O5qd-GZOQZrSBl6qbXyoezmoiSsU5/edit?usp=sharing&ouid=110318663577610864826&rtpof=true&sd=true
 
 ## Dmoney_Bug Report
+https://docs.google.com/spreadsheets/d/166DsTzdD3jto-8fNHoRrxybjI0qXI1Lb/edit?usp=sharing&ouid=110318663577610864826&rtpof=true&sd=true
 
 ## Prerequisites
 ``` 1. Node.js ``` <br>
